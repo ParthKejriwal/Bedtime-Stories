@@ -1,12 +1,7 @@
 {
   "expo": {
-    "name": "bedtime-stories",
-    "slug": "bedtime-stories",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "name": "temp-app",
+    "slug": "temp-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +18,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     }
   }
 }
